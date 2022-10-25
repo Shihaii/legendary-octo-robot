@@ -7,3 +7,6 @@ function sort(){
 function read(){
     alert(`+-+`);
 }
+function check(){
+    alert(`@`);
+}
