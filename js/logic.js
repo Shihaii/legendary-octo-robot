@@ -4,3 +4,6 @@ function search(){
 function sort(){
     alert(`-_-`);
 }
+function read(){
+    alert(`+-+`);
+}
